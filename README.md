@@ -1,5 +1,6 @@
 # Inforfinder
 ===========
+===========
 
 Inforfinder is a tool made to collect information of any domain pointing at a server (ip,domain,range,file).
 
